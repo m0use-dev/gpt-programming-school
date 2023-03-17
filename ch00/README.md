@@ -1,4 +1,4 @@
-
+# ChatGPTにオンラインスクールを開校させてみた
 ## ヒアリングシート
 - 使える技術:Webデザイナーを数年していてPHP、HTML、ワードプレス、CSS、jqueryなどを使用しています。
 - 新しく学びたい内容:AWS、react、github actions、Tailwind CSS、Ruby、Ruby on Rails、Docker、JavaScript（Tailwind CSS、Ruby、JavaScriptは過去に学習経験あり）
