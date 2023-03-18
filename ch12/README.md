@@ -30,6 +30,3 @@
 - お気に入り映画リストの作成（YouTube）: https://www.youtube.com/watch?v=ZgP4q9gkcx4
 - Ruby on Railsでリスト機能を実装（Railsガイド）: https://railsguides.jp/association_basics.html
 
-
-
-## 学習メモ

@@ -26,6 +26,3 @@
 - Tailwind CSS公式ドキュメント: https://tailwindcss.com/docs
 - Tailwind CSS入門（Zenn記事）: https://zenn.dev/topics/tailwindcss
 - Tailwind CSS入門（Traversy Media）: https://www.youtube.com/watch?v=UBOj6rqRUME
-
-
-## 学習メモ

@@ -29,6 +29,3 @@
 - AWS入門（Qiita記事）: https://qiita.com/tags/AWS
 - AWS公式トレーニングリソース: https://aws.amazon.com/jp/training/
 
-
-
-## 学習メモ

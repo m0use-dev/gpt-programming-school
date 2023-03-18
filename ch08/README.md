@@ -27,6 +27,3 @@
 - GitHub Actions公式ドキュメント: https://docs.github.com/ja/actions
 - GitHub Actions Crash Course（Traversy Media）: https://www.youtube.com/watch?v=R8_veQiYBjI
 
-
-
-## 学習メモ

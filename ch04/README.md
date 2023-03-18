@@ -33,5 +33,3 @@
 - Docker入門（Progate）: https://prog-8.com/languages/docker
 
 
-
-## 学習メモ

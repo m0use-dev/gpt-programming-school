@@ -27,6 +27,3 @@
 - APIを使った映画情報アプリの作成（YouTube）: https://www.youtube.com/watch?v=YsPqjYGauns
 - 映画情報検索アプリ開発（Qiita記事）: https://qiita.com/tags/%E6%98%A0%E7%94%BB%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2
 
-
-
-## 学習メモ

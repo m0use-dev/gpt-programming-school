@@ -25,6 +25,3 @@
 - Railsでレビュー機能を作る（Qiita記事）: https://qiita.com/yukihigasi/items/074e60424836d9cfe7fe
 - 映画評価アプリ開発（Zenn記事）: https://zenn.dev/topics/%E6%98%A0%E7%94%BB%E8%A9%95%E4%BE%A1
 
-
-
-## 学習メモ

@@ -41,5 +41,3 @@
 - React入門（Zenn記事）: https://zenn.dev/topics/react
 
 
-
-## 学習メモ
