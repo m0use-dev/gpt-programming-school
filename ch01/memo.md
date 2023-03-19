@@ -222,7 +222,15 @@ end
 ### for 文
 
 ```ruby
-
+for num in 1..5 do
+  puts num
+end
+# 出力結果:
+# 1
+# 2
+# 3
+# 4
+# 5
 ```
 
 ### while 文、until 文
@@ -240,21 +248,31 @@ end
 ## 6.メソッドの定義と呼び出し
 
 ### メソッドの定義方法
-
+メソッドの定義
 ```ruby
-
+def hello
+  "Hello!"
+end
 ```
 
 ### 引数と戻り値
 
 ```ruby
-
+def 
+end
 ```
 
 ### メソッドの呼び出し方法
 
 ```ruby
+# メソッドの定義
+def greet(name)
+  "Hello, #{name}!"
+end
 
+# メソッドの呼び出し
+puts greet("田中")  #=> "Hello, 田中!"
+puts greet("山田")    #=> "Hello, 山田!"
 ```
 
 ### ブロックとイールド
@@ -338,16 +356,32 @@ puts user11.info
 
 ### ファイルからの読み込み
 
-
 ### ファイルへの書き込み
 
 ## 11.RubyGems とライブラリの利用
 
 ### RubyGems の概要
 
+RubyGems.org
+https://rubygems.org 
+
 ### インストールされている Gem の確認
+インストールされている Gem の確認
+```sh
+$ gem list --local
+```
 
 ### Gem のインストールとアンインストール
+Gem のインストール
+```sh
+$ gem install 〇〇〇
+$ gem install bundler
+```
+Gem のアンインストール
+```sh
+$ gem uninstall 〇〇〇
+$ gem uninstall bundler
+```
 
 ### Gem を使ったプログラムの作成
 
@@ -362,3 +396,14 @@ puts user11.info
 ### テストフレームワーク（RSpec や Minitest）の導入
 
 ### 単体テストの作成と実行
+
+
+
+
+
+ターミナルから入力
+
+```
+name = gets.chomp
+number = gets.chomp.to_i
+```
