@@ -29,4 +29,3 @@
 - Railsでお気に入り機能の実装（Zenn記事）: https://zenn.dev/topics/%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A
 - お気に入り映画リストの作成（YouTube）: https://www.youtube.com/watch?v=ZgP4q9gkcx4
 - Ruby on Railsでリスト機能を実装（Railsガイド）: https://railsguides.jp/association_basics.html
-

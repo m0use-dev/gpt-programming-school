@@ -31,4 +31,3 @@
 - AWSでRailsアプリケーションをデプロイ（AWS公式ドキュメント）: https://aws.amazon.com/jp/getting-started/hands-on/deploy-ruby-on-rails/
 - Railsアプリケーションのデプロイ方法比較（Qiita記事）: https://qiita.com/superizqi/items/5d5a78d6a58bc6d5c1b5
 - Railsアプリケーションのパフォーマンスチューニング（Railsガイド）: https://railsguides.jp/performance_testing.html
-

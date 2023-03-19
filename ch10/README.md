@@ -28,4 +28,3 @@
 - Devise入門（Railsガイド）: https://railsguides.jp/devise.html
 - Deviseを使った認証機能の実装（Progate）: https://prog-8.com/languages/rails5/study/3/9
 - Railsで会員登録機能を作る（YouTube）: https://www.youtube.com/watch?v=zJYuLebl-Js
-

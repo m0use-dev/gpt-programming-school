@@ -39,5 +39,3 @@
 - React公式ドキュメント（日本語版）: https://ja.reactjs.org/
 - React入門（Progate）: https://prog-8.com/languages/react
 - React入門（Zenn記事）: https://zenn.dev/topics/react
-
-

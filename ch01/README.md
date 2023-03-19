@@ -62,6 +62,3 @@
 - Ruby公式ドキュメント: https://www.ruby-lang.org/ja/documentation/
 - Ruby入門（プログラミング言語Rubyドキュメント）: https://docs.ruby-lang.org/ja/
 - Ruby入門（Progate）: https://prog-8.com/languages/ruby
-
-
-

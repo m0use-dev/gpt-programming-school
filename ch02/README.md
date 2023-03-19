@@ -30,4 +30,3 @@
 - Railsチュートリアル（マイケル・ハートル）: https://railstutorial.jp/
 - Ruby on Rails入門（Progate）: https://prog-8.com/languages/rails
 - Ruby on Rails入門（ドットインストール）: https://dotinstall.com/lessons/basic_rails_v2
-
